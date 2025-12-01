@@ -14,7 +14,7 @@ I use **SQL**, **Python**, and **statistical testing** to diagnose root causes, 
 - **Prescriptive Analysis** (Optimization and recommendation systems)
 
 ## Featured Projects
-- 🔍 **[Olist Retention Analysis](https://github.com/aryanlytics/Olist-Retention-Analysis)** - Diagnosed 97% churn using statistical tests to prove structural vs operational causes
+- **[Olist Retention Analysis](https://github.com/aryanlytics/Olist-Retention-Analysis)** - Diagnosed 97% churn using statistical tests to prove structural vs operational causes
 
 ## Connect with Me
 <p align="left">
