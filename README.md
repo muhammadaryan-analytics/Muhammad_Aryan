@@ -36,7 +36,7 @@ I use **SQL**, **Python**, and **statistical testing** to diagnose root causes, 
 
 ---
 
-*"Data tells you what happened. Analysis tells you why. Strategy tells you what to do about it."*</div>
+*Data tells you what happened. Analysis tells you why. Strategy tells you what to do about it.*
 
 
 
