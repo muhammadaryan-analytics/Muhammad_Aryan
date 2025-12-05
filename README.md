@@ -6,7 +6,7 @@ I'm a **Data Analyst** specializing in **diagnostic analysis** and **business pr
 
 I use **SQL**, **Python**, and **statistical testing** to diagnose root causes, validate hypotheses, and deliver recommendations grounded in business constraints—not just technical possibilities.
 
-**Recent work:** Diagnosed why 97% of Olist marketplace customers never returned. Proved through statistical testing that the issue was structural market behavior, not operational failure. Recommended strategic pivot saving wasted retention spend and redirecting to acquisition efficiency.
+
 
 ## Currently Learning
 - **Hypothesis Testing & Statistical Validation** (Chi-square, regression, A/B testing)
@@ -14,7 +14,7 @@ I use **SQL**, **Python**, and **statistical testing** to diagnose root causes, 
 - **Prescriptive Analysis** (Optimization and recommendation systems)
 
 ## Featured Projects
-- **[Olist Marketplace Retention Analysis](https://github.com/aryanlytics/Olist-Retention-Analysis)** - Diagnosed 97% churn using statistical tests to prove structural vs operational causes
+- **[Olist Marketplace Retention Analysis](https://github.com/aryanlytics/Olist-Retention-Analysis)** - Diagnosed why 97% of Olist marketplace customers never returned
 - **[Instacart Customer Behavior Analysis](https://github.com/aryanlytics/Instacart-Customer-Behavior-Analysis.git)** - to separate operational issues from customer behavior and timing patterns
 
 ## Connect with Me
