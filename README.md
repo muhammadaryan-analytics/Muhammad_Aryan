@@ -2,28 +2,37 @@
 
 <h2> Hey, I'm Aryan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2>
 
-I'm a **Data Analyst** specializing in **diagnostic analysis** and **business problem-solving**. I focus on answering "Why is this happening?" rather than just reporting what happened. My work distinguishes between operational issues (fixable through process improvements) and structural challenges (requiring strategic shifts).
+I'm a **Data Analyst who helps leadership make confident decisions**. I turn raw data into clear insights about customer behavior and revenue, so you know **what's actually happening, why it's happening, and what the data suggests**.
 
-I use **SQL**, **Python**, and **statistical testing** to diagnose root causes, validate hypotheses, and deliver recommendations grounded in business constraints—not just technical possibilities.
-
-
+I work with **SQL**, **Python**, and **statistical testing** to analyze customer behavior, identify revenue opportunities, and provide recommendations that support decision-making across e-commerce, fintech, and marketplace businesses.
 
 ## Currently Learning
-- **Hypothesis Testing & Statistical Validation** (Chi-square, regression, A/B testing)
-- **Predictive Analysis** (Moving from diagnostic to predictive models)
-- **Prescriptive Analysis** (Optimization and recommendation systems)
+- **Predictive Modeling** (Moving from diagnostic to predictive analysis)
+- **A/B Testing & Experimentation** (Testing hypotheses in live environments)
+- **Advanced SQL** (Window functions, CTEs, query optimization)
 
 ## Featured Projects
-- **[Olist Marketplace Retention Analysis](https://github.com/aryanlytics/Olist-Retention-Analysis)** - Diagnosed why 97% of Olist marketplace customers never returned
-- **[Instacart Customer Behavior Analysis](https://github.com/aryanlytics/Instacart-Customer-Behavior-Analysis.git)** - to separate operational issues from customer behavior and timing patterns
+
+### [Olist E-Commerce Retention Analysis](https://github.com/aryanlytics/Olist-Retention-Analysis)
+Analyzed 96K customer transactions to understand why 97% never returned. Used statistical testing to prove the issue was structural market behavior, not operational failures. Data suggested reallocating retention budget to acquisition efficiency.
+
+### [Instacart Customer Behavior Analysis](https://github.com/aryanlytics/Instacart-Customer-Behavior-Analysis)
+Analyzed 32M orders to understand why reorder rates varied 32 percentage points across categories (dairy 67% vs pantry 35%). Found that category type and shopping breadth drive behavior, not customer loyalty or frequency.
+
+### Consumer Loan Profitability Analysis
+Analyzed loan application and performance data to identify which approval criteria maximize profitability while managing default risk. Data suggested criteria adjustments with estimated impact on unit economics.
 
 ## Connect with Me
+
 <p align="left">
 <a target="_blank" href="https://www.linkedin.com/in/muhammadaryan008/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a target="_blank" href="mailto:aryanlytics@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a target="_blank" href="mailto:aryanlytics@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a target="_blank" href="https://wa.me/923285354405"><img src="https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a target="_blank" href="https://github.com/aryanlytics/Portfolio/blob/main/Muhammad_Aryan_CV.pdf"><img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" /></a>
 </p>
 
 ## Tools & Technologies
+
 <div align="left">
 <img width="48" height="48" alt="VS Code" src="https://github.com/user-attachments/assets/f720e508-9dbd-41b2-877e-57f14032282c" />
 <img width="48" height="46" alt="PostgreSQL" src="https://github.com/user-attachments/assets/d9df4030-f288-4c98-aa14-406772e1b13e" />
@@ -36,7 +45,4 @@ I use **SQL**, **Python**, and **statistical testing** to diagnose root causes, 
 
 ---
 
-*Data tells you what happened. Analysis tells you why. Strategy tells you what to do about it.*
-
-
-
+*Data shows what's happening. Analysis explains why. Insights guide what to do next.*
