@@ -27,8 +27,8 @@ Analyzed loan application and performance data to identify which approval criter
 <p align="left">
 <a target="_blank" href="https://www.linkedin.com/in/muhammadaryan008/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a target="_blank" href="mailto:aryanlytics@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a target="_blank" href="https://wa.me/923285354405"><img src="https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a target="_blank" href="https://github.com/aryanlytics/Portfolio/blob/main/Muhammad_Aryan_CV.pdf"><img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" /></a>
+<a target="_blank" href="https://wa.me/923400407475"><img src="https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a target="_blank" href="https://github.com/user-attachments/files/24363840/Muhammad.Aryan.CV.4.pdf"><img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" /></a>
 </p>
 
 ## Tools & Technologies
