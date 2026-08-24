@@ -5,7 +5,7 @@
 
 ### About
   
-  <p>I architect software products designed to handle complex workflows, real time data streaming and high concurrency environments. I take complete ownership of the system architecture from designing to production. I make sure the underlying infrastructure actually solves the business problem. I take on the heavy lifting across the entire stack, tackling complex state management and latency bottlenecks so the end product is seamless and reliable.
+  <p>I architect software products designed to handle complex workflows, real time data streaming and high concurrency environments. I take complete ownership of the system architecture from designing to production. I take on the heavy lifting across the entire stack, tackling complex state management and latency bottlenecks so the end product is seamless and reliable.
 
 </p>
 
