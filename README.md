@@ -5,7 +5,7 @@
 
 ### About
   
-  <p>I architect software products that are built to handle complex workflows, real time data, and high concurrency environments. I take complete ownership of the architecture. Whether building event driven platforms, structuring massive monorepos, or deploying autonomous AI agents into production, I make sure the underlying infrastructure actually solves the business problem. I take on the heavy lifting across the entire stack, tackling complex state management and latency bottlenecks so the end product is seamless and reliable.
+  <p>I architect software products designed to handle complex workflows, real time data streaming and high concurrency environments. I take complete ownership of the system architecture from designing to production. I make sure the underlying infrastructure actually solves the business problem. I take on the heavy lifting across the entire stack, tackling complex state management and latency bottlenecks so the end product is seamless and reliable.
 
 </p>
 
@@ -49,37 +49,18 @@ Domino bridges the gap between thought and execution. It is a voice-controlled a
 ---
 
 
+  
+
+
+
   ### Tech Stack
-  <table>
-    <thead>
-      <tr>
-        <th align="left">Layer</th>
-        <th align="left">Tools & Technologies</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="left"><strong>Frontend</strong></td>
-        <td align="left">React &middot; Next.js &middot; Framer Motion &middot; GSAP &middot; Tailwind CSS &middot; TanStack Query &middot; Zustand &middot; Chrome Extension APIs</td>
-      </tr>
-      <tr>
-        <td align="left"><strong>Backend</strong></td>
-        <td align="left">Node.js &middot; TypeScript &middot; Express &middot; Fastify &middot; REST &middot; GraphQL &middot; WebSockets &middot; Webhooks &middot; gRPC &middot; SSE</td>
-      </tr>
-      <tr>
-        <td align="left"><strong>AI and Voice</strong></td>
-        <td align="left">LangChain &middot; LangGraph &middot; Langsmith &middot; Gemini Pro / Live &middot; LiveKit &middot; MCP &middot; RAG &middot; Agentic AI</td>
-      </tr>
-      <tr>
-        <td align="left"><strong>DevOps and Tools</strong></td>
-        <td align="left">Cloudflare &middot; Kong &middot; Github Action &middot; CI/CD &middot; Docker &middot; Kubernetes</td>
-      </tr>
-      <tr>
-        <td align="left"><strong>Architecture</strong></td>
-        <td align="left">Multi-tenant &middot; Microservices &middot; System Design &middot;  &middot;  </td>
-      </tr>
-    </tbody>
-  </table>
+| Layer | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | React &middot; Next.js &middot; Framer Motion &middot; GSAP &middot; Tailwind CSS &middot; TanStack Query &middot; Zustand &middot; Chrome Extension APIs |
+| **Backend** | Node.js &middot; TypeScript &middot; Express &middot; Fastify &middot; REST &middot; GraphQL &middot; WebSockets &middot; Webhooks &middot; gRPC &middot; SSE |
+| **AI and Voice** | LangChain &middot; LangGraph &middot; Langsmith &middot; Gemini Pro / Live &middot; LiveKit &middot; MCP &middot; RAG &middot; Agentic AI |
+| **DevOps & Infra** | Cloudflare &middot; Kong API Gateway &middot; GitHub Actions &middot; CI/CD &middot; Docker &middot; Kubernetes |
+| **Architecture** | Distributed Systems &middot; Multi-tenant &middot; Microservices &middot; Event-Driven Design &middot; Load Balancing |
 
 ---
 
