@@ -60,11 +60,11 @@ Domino bridges the gap between thought and execution. It is a voice-controlled a
     <tbody>
       <tr>
         <td align="left"><strong>Frontend</strong></td>
-        <td align="left">React &middot; Next.js &middot; TypeScript &middot; Tailwind CSS &middot; TanStack Query &middot; Zustand &middot; Chrome Extension APIs</td>
+        <td align="left">React &middot; Next.js &middot; Framer Motion &middot; GSAP &middot; Tailwind CSS &middot; TanStack Query &middot; Zustand &middot; Chrome Extension APIs</td>
       </tr>
       <tr>
         <td align="left"><strong>Backend</strong></td>
-        <td align="left">Node.js &middot; TypeScript &middot; Express &middot; Fastify &middot; REST &middot; GraphQL &middot; WebSockets &middot; Webhooks &middot; gRPC</td>
+        <td align="left">Node.js &middot; TypeScript &middot; Express &middot; Fastify &middot; REST &middot; GraphQL &middot; WebSockets &middot; Webhooks &middot; gRPC &middot; SSE</td>
       </tr>
       <tr>
         <td align="left"><strong>AI and Voice</strong></td>
@@ -72,11 +72,11 @@ Domino bridges the gap between thought and execution. It is a voice-controlled a
       </tr>
       <tr>
         <td align="left"><strong>DevOps and Tools</strong></td>
-        <td align="left">NGINX &middot; Kong &middot; Github Action &middot; CI/CD &middot; Docker</td>
+        <td align="left">Cloudflare &middot; Kong &middot; Github Action &middot; CI/CD &middot; Docker &middot; Kubernetes</td>
       </tr>
       <tr>
         <td align="left"><strong>Architecture</strong></td>
-        <td align="left">Multi-tenant &middot; Agent Driven Automation &middot; Event Driven &middot; System Design &middot; Microservices</td>
+        <td align="left">Multi-tenant &middot; Microservices &middot; System Design &middot;  &middot;  </td>
       </tr>
     </tbody>
   </table>
