@@ -56,7 +56,7 @@ Domino bridges the gap between thought and execution. It is a voice-controlled a
   ### Tech Stack
 | Layer | Tools & Technologies |
 | :--- | :--- |
-| **Frontend** | React &middot; Next.js &middot; Framer Motion &middot; GSAP &middot; Tailwind CSS &middot; TanStack Query &middot; Zustand &middot; Chrome Extension APIs |
+| **Frontend** | React &middot; Next.js &middot; Motion &middot; GSAP &middot; Tailwind CSS &middot; TanStack Query &middot; Zustand &middot; Chrome Extension APIs |
 | **Backend** | Node.js &middot; TypeScript &middot; Express &middot; Fastify &middot; REST &middot; GraphQL &middot; WebSockets &middot; Webhooks &middot; gRPC &middot; SSE |
 | **AI and Voice** | LangChain &middot; LangGraph &middot; Langsmith &middot; Gemini Pro / Live &middot; LiveKit &middot; MCP &middot; RAG &middot; Agentic AI |
 | **DevOps & Infra** | Cloudflare &middot; Kong API Gateway &middot; GitHub Actions &middot; CI/CD &middot; Docker &middot; Kubernetes |
